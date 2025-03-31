@@ -1,3 +1,9 @@
+### npm install
+## npm run dev
+## npm run build
+
+<!-- 
+
 src/
 ├── assets/
 │   ├── styles/
@@ -66,3 +72,5 @@ project-root/
 ├── vite.config.js      # Конфігурація Vite
 ├── package.json
 ├── .gitignore
+
+-->
